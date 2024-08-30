@@ -1,0 +1,4 @@
+com\mycompany\user\UserRepository.class
+com\mycompany\MyCompanyApplication.class
+com\mycompany\controller\MainController.class
+com\mycompany\user\User.class
